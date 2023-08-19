@@ -1,2 +1,2 @@
-# Flutter_Login_UI
-Flutter ile giriş ekranı tasarımı
+# flutter_login_ui
+ Flutter ile giriş ekranı tasarımı
